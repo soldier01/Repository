@@ -22,7 +22,7 @@
 		<spring-tx-version>5.2.2.RELEASE</spring-tx-version>
 		<spring-version>5.2.2.RELEASE</spring-version>
 		<jackson-annotations-version>2.4.1</jackson-annotations-version>
-		<commons-io-version>2.4</commons-io-version>
+		<commons-io-version>2.7</commons-io-version>
 	</properties>
 	<dependencyManagement>
 		<dependencies>
